@@ -72,6 +72,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BYEORXJK
 
+[GeneratedDocument1]
+DocumentPath=E-component.cmp
+DItemRevisionGUID=
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
